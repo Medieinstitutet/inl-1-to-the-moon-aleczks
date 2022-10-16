@@ -1,0 +1,45 @@
+
+
+.full-page {
+  display: flex;
+}
+
+.column-left .column-right {
+  width: 50%;
+}
+
+
+/* ------------------------------------------------ */
+/* --------------------GRADIENT IDK --------------- */
+/* ------------------------------------------------ */
+
+img {
+  float: right;
+  transform: rotate(5deg);
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.column-right { 
+  blockquote {
+    padding-top: 50px;
+    font-size: 2.5rem;
+    font-weight: 200;
+    margin: 25px;
+    font-style: italic;
+    color: #D200A2;
+    opacity: .4;
+    background: radial-gradient(#fff, #fff, #D200A2);
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    line-height: 1.1;
+    
+
+  }
+}
+
+
+
+
